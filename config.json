@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdpdate",
+        "uuid": 27842100,
+        "checksum": "cjqkem"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
